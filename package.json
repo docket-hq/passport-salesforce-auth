@@ -1,6 +1,6 @@
 {
   "name": "passport-salesforce-auth",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Passport strategy for Salesforce that includes request object passthrough.",
   "main": "index.js",
   "scripts": {
